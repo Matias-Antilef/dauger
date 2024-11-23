@@ -1,7 +1,7 @@
 import Footer from "../../components/footer/Footer";
 import About from "../about/About";
 import Home from "../home/Home";
-import Jokes from "../jokes/jokes";
+import Jokes from "../jokes/Jokes";
 import Phrases from "../phrases/Phrases";
 
 function AllProyect() {
