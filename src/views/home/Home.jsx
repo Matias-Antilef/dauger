@@ -12,7 +12,7 @@ function Home() {
       <section className="">
         <h1 className=" ">Dot Dager 🧉 </h1>
         <h3>Serial de chistes de mierda</h3>
-        <h6 className="text-terciary text-xs ">y programador (secundario)</h6>
+        <h6 className="text-terciary text-sm ">y programador (secundario)</h6>
         <div className="flex gap-3 mt-6 items-center ">
           <LinkStyled
             href="https://www.twitch.tv/dagerxiv"
